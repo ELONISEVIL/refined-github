@@ -1,3 +1,4 @@
+#sudo su 
 # <img src="source/icon.png" width="45" align="left"> Refined GitHub
 
 > Browser extension that simplifies the GitHub interface and adds useful features
